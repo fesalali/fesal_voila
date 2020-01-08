@@ -1,5 +1,6 @@
+
 {
-    "name": "voilafinal/cms_base_voila",
+    "name": "voilafesal/cms_base_voila",
     "description": "cms voila",
     "type": "project",
     "authors": [
@@ -22,12 +23,5 @@
         "post-create-project-cmd": [
             "@php artisan key:generate"
         ]
-    },
-    "config": {
-        "preferred-install": "dist",
-        "sort-packages": true,
-        "optimize-autoloader": true
-    },
-    "minimum-stability": "dev",
-    "prefer-stable": true
+    }
 }

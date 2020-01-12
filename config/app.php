@@ -150,7 +150,7 @@ return [
         /*
          * Package Service Providers...
          */
-        crocodicstudio\crudbooster\CRUDBoosterServiceProvider::class,
+        crocodicstudio_voila\crudbooster\CRUDBoosterServiceProvider::class,
 
 
         /*

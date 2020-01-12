@@ -4,9 +4,9 @@
 	use Request;
 	use DB;
 	use CRUDBooster;
-	use crocodicstudio\crudbooster\fonts\Fontawesome;
+	use crocodicstudio_voila\crudbooster\fonts\Fontawesome;
 	
-	class AdminSocialMediaController extends \crocodicstudio\crudbooster\controllers\CBController {
+	class AdminSocialMediaController extends \crocodicstudio_voila\crudbooster\controllers\CBController {
 
 	    public function cbInit() {
 

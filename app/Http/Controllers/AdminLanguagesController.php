@@ -5,7 +5,7 @@
 	use DB;
 	use CRUDBooster;
 
-	class AdminLanguagesController extends \crocodicstudio\crudbooster\controllers\CBController {
+	class AdminLanguagesController extends \crocodicstudio_voila\crudbooster\controllers\CBController {
 
 	    public function cbInit() {
 

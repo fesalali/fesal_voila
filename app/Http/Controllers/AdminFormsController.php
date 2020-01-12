@@ -5,7 +5,7 @@
 	use DB;
 	use CRUDBooster;
 
-	class AdminFormsController extends \crocodicstudio\crudbooster\controllers\CBController {
+	class AdminFormsController extends \crocodicstudio_voila\crudbooster\controllers\CBController {
 
 	    public function cbInit() {
 

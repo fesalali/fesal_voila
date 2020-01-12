@@ -11,7 +11,7 @@
     ],
     "require": {
         "mcamara/laravel-localization": "^1.4",
-        "crocodicstudio_voila/crudbooster":"^1.0",
+        "crocodicstudio_voila/crudbooster":"dev-master",
         "php": "^7.1.3",
         "fideloper/proxy": "^4.0",
         "laravel/framework": "5.6.*",

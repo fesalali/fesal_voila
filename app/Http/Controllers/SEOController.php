@@ -4,7 +4,7 @@ namespace App\Http\Controllers;
 
 use App\Seo;
 use Illuminate\Http\Request;
-use crocodicstudio\crudbooster\helpers\CRUDBooster;
+use crocodicstudio_voila\crudbooster\helpers\CRUDBooster;
 class SEOController extends Controller
 {
 

@@ -63,7 +63,7 @@
             "time": "2019-08-23T14:30:33+00:00"
         },
         {
-            "name": "crocodicstudio_voila_voila/crudbooster",
+            "name": "crocodicstudio_voila/crudbooster",
             "version": "1.0",
             "source": {
                 "type": "git",
@@ -89,7 +89,7 @@
             "type": "project",
             "autoload": {
                 "psr-4": {
-                    "crocodicstudio_voila_voila\\crudbooster\\": "src/"
+                    "crocodicstudio_voila\\crudbooster\\": "src/"
                 }
             },
             "notification-url": "https://packagist.org/downloads/",

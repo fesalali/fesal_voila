@@ -14,6 +14,11 @@ import database cms_db_v2.sql
   <p><a>php artisan serve</a></p>
   url admin panel : http://localhost:8000/modules
   
-  email: superadmin@voila.digital
+  email: superadmin@voila.digital <br>
   pass : 123456
  </div>
+ 
+ 
+ read document from : <br>
+ 
+ https://crudbooster.com/

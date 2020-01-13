@@ -1,6 +1,12 @@
 <h1>cms voila </h1>
 
-<p>composer create-project fesal/cms_base_voila</p>
+<p><a>composer create-project fesal/cms_base_voila:dev-master</a></p>
 
-then 
-<p>composer require crocodicstudio_voila/crudbooster</p>
+<p><a>cd cms_base_voila</a></p>
+
+<p><a>composer require crocodicstudio_voila/crudbooster:dev-master</a></p>
+
+<div>
+  <p><a>php artisan serve</a></p>
+  url admin panel : http://localhost:8000/modules
+  </div>

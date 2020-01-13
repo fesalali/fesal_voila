@@ -6,7 +6,11 @@
 
 <p><a>composer require crocodicstudio_voila/crudbooster:dev-master</a></p>
 
+set database setting in .env
+
+import database cms_db_v2.sql
+
 <div>
   <p><a>php artisan serve</a></p>
   url admin panel : http://localhost:8000/modules
-  </div>
+ </div>

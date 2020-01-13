@@ -62,58 +62,7 @@
             ],
             "time": "2019-08-23T14:30:33+00:00"
         },
-        {
-            "name": "crocodicstudio_voila/crudbooster",
-            "version": "1.0",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/fesalali/f_voila_crud.git",
-                "reference": "e191d4e79aa3ba8863c50e34b3190debb49239df"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/fesalali/f_voila_crud/zipball/e191d4e79aa3ba8863c50e34b3190debb49239df",
-                "reference": "e191d4e79aa3ba8863c50e34b3190debb49239df",
-                "shasum": ""
-            },
-            "require": {
-                "barryvdh/laravel-dompdf": "0.8.*",
-                "doctrine/dbal": "~2.3",
-                "imanghafoori/laravel-heyman": "2.*",
-                "imanghafoori/laravel-widgetize": "1.8.*",
-                "intervention/imagecache": "2.3.3",
-                "maatwebsite/excel": "~2.1.0",
-                "php": ">=5.6",
-                "unisharp/laravel-filemanager": "1.7.7"
-            },
-            "type": "project",
-            "autoload": {
-                "psr-4": {
-                    "crocodicstudio_voila\\crudbooster\\": "src/"
-                }
-            },
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "MIT"
-            ],
-            "authors": [
-                {
-                    "name": "fesal",
-                    "email": "fesalali05@gmail.com"
-                }
-            ],
-            "description": "CRUDBooster Is CRUD Generator Based On Laravel Easy To Make An Advanced Backend",
-            "keywords": [
-                "admin-panel",
-                "backend",
-                "crud",
-                "crud-generator",
-                "crudbooster",
-                "generator",
-                "laravel"
-            ],
-            "time": "2020-01-09T11:06:46+00:00"
-        },
+       
         {
             "name": "dnoegel/php-xdg-base-dir",
             "version": "v0.1.1",
